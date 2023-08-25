@@ -12,14 +12,6 @@
  * 
  * @retval none.
  */
-
-@brief se utiliza para proporcionar una descripción breve y concisa de lo que hace la función.
-@param se utiliza para documentar los parámetros que acepta la función, en este caso, base y altura.
-@note se usa para agregar notas adicionales sobre el funcionamiento de la función.
-@retval se utiliza para describir el valor de retorno de la función.
-@arg no es una etiqueta estándar en Doxygen, pero se ha incluido en tu solicitud. Si deseas usarlo, puedes agregarlo para describir los argumentos de las funciones en lugar de @param.
-
-
 //%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%55
 #include "mbed.h"
 #include "arm_book_lib.h"
